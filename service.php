@@ -37,7 +37,7 @@
         </div>
         <div class="box">
           <div class="img-box">
-            <img src="images/s3.png" class="img1" alt="">
+            <img src="images/dw.png" class="img1 bouncy" alt="">
           </div>
           <div class="detail-box">
             <h5>
